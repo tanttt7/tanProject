@@ -1,1 +1,1 @@
-cHJpbnQoIkhlbGxvLCBXb3JsZCEiKQ==
+print('Hello, World!')
